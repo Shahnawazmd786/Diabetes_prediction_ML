@@ -4,4 +4,4 @@
  Diabetes Prediction Using Machine Learning
 Technologies: Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 
-Developed and deployed a machine learning model to predict diabetes outcomes with 78% accuracy using the Pima Indians Diabetes dataset. Performed extensive exploratory data analysis (EDA), data cleaning, and feature engineering to optimize model performance. Trained and compared multiple classification algorithms, evaluated results using confusion matrices and ROC curves, and applied hyperparameter tuning to enhance prediction robustness.
+Built a K-Nearest Neighbors (KNN) classification model achieving 78% accuracy in predicting diabetes using the Pima Indians Diabetes dataset. Conducted thorough EDA, applied feature scaling, and visualized model performance through confusion matrices and ROC curves. Optimized the model to attain a precision of 80% for non-diabetic and 71% for diabetic classes, demonstrating strong and balanced predictive capability.
